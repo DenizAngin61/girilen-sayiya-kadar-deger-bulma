@@ -1,0 +1,1 @@
+# girilen-sayiya-kadar-deger-bulma
